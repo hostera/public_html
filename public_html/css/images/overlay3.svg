@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000px" height="1000px" viewBox="0 0 1000 1000" zoomAndPan="disable">
+    <style type="text/css"><![CDATA[
+		.p-4 { fill: rgba(255,255,255,0.16); }
+		.p-3 { fill: rgba(255,255,255,0.12); }
+		.p-2 { fill: rgba(255,255,255,0.08); }
+		.p-1 { fill: rgba(255,255,255,0.04); }
+		.p0 { fill: none; }
+		.p1 { fill: rgba(0,0,0,0.025); }
+		.p2 { fill: rgba(0,0,0,0.05); }
+		.p3 { fill: rgba(0,0,0,0.075); }
+		.p4 { fill: rgba(0,0,0,0.1); }
+    ]]></style>
+	<polygon class="p-4" points="0,0 100,0 100,1000 0,1000" />
+	<polygon class="p-3" points="100,0 200,0 200,1000 100,1000" />
+	<polygon class="p-2" points="200,0 300,0 300,1000 200,1000" />
+	<polygon class="p-1" points="300,0 400,0 400,1000 300,1000" />
+	<polygon class="p0"  points="400,0 600,0 600,1000 400,1000" />
+	<polygon class="p1"  points="600,0 700,0 700,1000 600,1000" />
+	<polygon class="p2" points="700,0 800,0 800,1000 700,1000" />
+	<polygon class="p3" points="800,0 900,0 900,1000 800,1000" />
+	<polygon class="p4" points="900,0 1000,0 1000,1000 900,1000" />
+</svg>
